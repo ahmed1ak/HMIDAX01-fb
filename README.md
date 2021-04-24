@@ -9,4 +9,8 @@ It is a script that makes guessing on the password
 
 
 
-#انا لااتحمل مسؤليتك لسوء استخدامك لهذه الاداة
+#
+
+https://www5.0zz0.com/2021/04/24/21/286651311.png
+
+انا لااتحمل مسؤليتك لسوء استخدامك لهذه الاداة
