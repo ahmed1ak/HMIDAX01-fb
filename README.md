@@ -10,7 +10,6 @@ It is a script that makes guessing on the password
 
 
 #
-
-https://www5.0zz0.com/2021/04/24/21/286651311.png
+[url=https://www.0zz0.com][img]https://www5.0zz0.com/2021/04/24/21/286651311.png[/img][/url]
 
 انا لااتحمل مسؤليتك لسوء استخدامك لهذه الاداة
