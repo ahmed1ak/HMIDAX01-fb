@@ -17,7 +17,7 @@ __banner__ = """
        +---------------------------------------+
        |#Author: DedSecTL <dtlily>             |
        |#Contact: Telegram @dtlily 
-       |#Contact: facebook https://www.facebook.com/hmida.madrid.357      |
+       |#Contact:youtube Chanel hmida hacker dz |
        |#Date: Fri mar 20 10:15:49 2021         |
        |#This tool is made for pentesting.     |
        |#Changing the description of this tool |
@@ -31,6 +31,7 @@ __banner__ = """
        سكربت اختراق فيسبوك عن طريق التخمين 
        +HMIDA.............*.X01.................+ 
             【H】【M】【I】【D】【A】【X】【【0】】【【1】】-【f】【b】
+
 """
 
 print("[+] Facebook Brute Force\n")
