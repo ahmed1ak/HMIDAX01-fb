@@ -7,9 +7,5 @@ When you download the script, you must delete the README.md file in order for th
 And he started working
 It is a script that makes guessing on the password
 
-
-
-#
-[url=https://www.0zz0.com][img]https://www5.0zz0.com/2021/04/24/21/286651311.png[/img][/url]
-
+https://www5.0zz0.com/2021/04/24/21/286651311.png
 انا لااتحمل مسؤليتك لسوء استخدامك لهذه الاداة
